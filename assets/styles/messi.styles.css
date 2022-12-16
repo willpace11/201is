@@ -1,0 +1,35 @@
+body {
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+    color:#555555 ;
+}
+li {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(21, 108, 194) ;
+}
+.summary {
+    font-weight: bolder;
+    font-style: normal;
+}
+.justify{text-align: justify;}
+
+.homebg {
+    background-color: beige;
+}
+
+.quote { 
+    font-size: 20px;
+}
+
+.stats {
+    font-size: 14px;
+    color: darkred;
+}
+.subheading {
+    font-size: 18px;
+    font-weight: bolder;
+}
